@@ -1,0 +1,2 @@
+# xss-wargame
+reflected xss
